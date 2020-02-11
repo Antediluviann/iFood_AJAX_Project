@@ -5,8 +5,8 @@ var id = '5ab3022e';
 
 var input = document.querySelector('.keyword-input');
 var subButton = document.querySelector('.search-button');
-var calMin = document.querySelector('.min-calories-input');
-var calMax = document.querySelector('.max-calories-input');
+var calMin = document.querySelector('.min-calories');
+var calMax = document.querySelector('.max-calories');
 var loader = document.querySelector('.loader');
 var recipesPage = document.querySelector('#recipes');
 var recipesCounter = document.querySelector('.recipe-count-number');
